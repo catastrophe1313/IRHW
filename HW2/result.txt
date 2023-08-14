@@ -1,0 +1,60 @@
+Problem 1
+
+Performance on testing set
+		NDCG@3	NDCG@5	NDCG@10
+MART		0.3965	0.4031	0.4269
+LambdaMART	0.4062	0.4134	0.4335
+XGBoost		0.4654	0.4654	0.4654
+	
+Performance on validation set
+		NDCG@3	NDCG@5	NDCG@10
+MART		0.3919	0.3982	0.4211
+LambdaMART	0.4002	0.4047	0.4273
+XGBoost		0.4276	0.4158	0.4385
+
+Performance on training set
+		NDCG@3	NDCG@5	NDCG@10
+MART		0.4126	0.4199	0.4406
+LambdaMART	0.4673	0.4619	0.4686
+XGBoost		0.4820	0.4820	0.4820
+
+Problem 2
+
+Performance on testing set
+		NDCG@3	NDCG@5	NDCG@10
+MART		0.4199	0.4274	0.4509
+LambdaMART	0.4261	0.4348	0.4545
+XGBoost		0.5607	0.5607	0.5688
+	
+Performance on validation set
+		NDCG@3	NDCG@5	NDCG@10
+MART		0.4069	0.4198	0.4433
+LambdaMART	0.4203	0.4272	0.4475
+XGBoost		0.5434	0.5434	0.5473
+
+Performance on training set
+		NDCG@3	NDCG@5	NDCG@10
+MART		0.4402	0.4470	0.4689
+LambdaMART	0.4908	0.4860	0.4905
+XGBoost		0.5935	0.5935	0.5935
+
+Problem 3
+
+Performance on testing set
+		NDCG@3	NDCG@5	NDCG@10
+MART		0.2460	0.2569	0.2799
+LambdaMART	0.2303	0.2444	0.2696
+XGBoost		0.2339	0.2339	0.2339
+	
+Performance on validation set
+		NDCG@3	NDCG@5	NDCG@10
+MART		0.2379	0.2479	0.2801
+LambdaMART	0.2198	0.2306	0.2587
+XGBoost		0.2397	0.2397	0.2397
+
+Performance on training set
+		NDCG@3	NDCG@5	NDCG@10
+MART		0.8892	0.8831	0.8823
+LambdaMART	0.9157	0.9061	0.8970
+XGBoost		0.9526	0.9526	0.9526		
+
